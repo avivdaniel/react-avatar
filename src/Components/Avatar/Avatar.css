@@ -1,0 +1,10 @@
+.Avatar {
+    text-align: center;
+    background-color: #659DBD;
+    padding: 50px 0;
+}
+
+.Avatar img{
+    max-width: 100%;
+}
+
